@@ -75,4 +75,3 @@ function Student() {
 }
 
 export default Student;
-// im learning about git 
